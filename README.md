@@ -36,4 +36,5 @@ Used fields:
 ---
 
 ## Book Embeddings (Important)
-The file `book_embeddings.npy` is **not included** in this repository because it is large (~34 MB).
+The file book_embeddings.npy is not included in this repository because it is large (~34 MB).
+It is generated offline using build_index.py and loaded at runtime by the retriever.
