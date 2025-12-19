@@ -37,8 +37,3 @@ Used fields:
 
 ## Book Embeddings (Important)
 The file `book_embeddings.npy` is **not included** in this repository because it is large (~34 MB).
-
-Before running the project, generate embeddings locally by running:
-
-```bash
-python build_embeddings.py
